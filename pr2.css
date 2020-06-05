@@ -1,8 +1,9 @@
 body
 {
-	background-image: url("img5.jpg");
+	background-image: url("img7.jpg"); 
 	background-repeat: no-repeat;
-   background-size:cover;
+	background-size:cover;
+   
 
 }
 h1
@@ -11,4 +12,8 @@ font-family: "Sofia";
   font-size: 100px;
   color: white;
   text-align: center;
+}
+a
+{
+	color:white;
 }
