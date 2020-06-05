@@ -3,8 +3,43 @@ body
 	background-image: url("img8.jpg"); 
 	background-repeat: no-repeat;
 	background-size:cover;
+	opacity: 1.5;
 }
 .x1
+{margin: 0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border:3px solid black;
+	border-collapse: collapse;
+	padding: 20px;
+	text-align: center;
+	opacity: 1.0;
+}
+.card-img-top
 {
-	align-items: center;
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+	height: 200px;
+	width: 150px;
+}
+a:hover
+{
+	color: white;
+}button
+{
+	
+	border:2px solid blue;
+	border-radius: 5px;
+  border-width: medium;
+  border-color: black;
+  padding: 10px;
+}
+button:hover
+{
+	background-color: black;
+
 }

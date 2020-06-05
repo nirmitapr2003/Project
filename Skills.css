@@ -1,0 +1,50 @@
+body
+{
+	background-image: url("imag2.jpg"); 
+	background-repeat: no-repeat;
+	background-size:cover;
+	opacity: 1.5;
+	color: black;
+	border:2px solid blue;
+	border-radius: 5px;
+  border-width: medium;
+  border-color: black;
+  padding: 30px;
+
+}
+a:hover
+{
+	color: white;
+}
+button
+{
+	
+	border:2px solid blue;
+	border-radius: 5px;
+  border-width: medium;
+  border-color: black;
+  padding: 10px;
+}
+button:hover
+{
+	background-color: black;
+
+}
+h1
+{
+	text-align: center;
+	font-size: 60px;
+}
+h1,.y1,.y2,.y3,.y4
+{
+	border:3px solid black;
+	border-collapse: collapse;
+	padding: 10px;
+	border-radius: 5px;
+	text-align: center;
+	background-opacity: 0.2;
+}
+p
+{
+	font-size: 20px;
+}
