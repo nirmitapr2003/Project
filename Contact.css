@@ -1,24 +1,19 @@
-
 h1
 {
-	margin-top:300px;
-   font-family: 'Lobster', cursive;
+	font-family: 'Lobster', cursive;
   font-size: 100px;
   color: black;
   text-align: center;
 }
 body
 {
-
-	background-image: url(l3.jpg);
-	opacity: 1.5;
-	margin-top: 30PX;
+	background-image: url(h1.jpg);
 	background-repeat: no-repeat;
 	background-size: 1350px 700px;
 }
-h2
-{ 
-	margin-left: 410px;
+p
+{
 	font-family: 'Lobster', cursive;
-  font-size: 50px;
+	font-size: 25px;
+	text-align: center;
 }

@@ -1,50 +1,24 @@
 body
 {
-	background-image: url("imag2.jpg"); 
+	background-image: url(h1.jpg); 
 	background-repeat: no-repeat;
-	background-size:cover;
-	opacity: 1.5;
-	color: black;
-	border:2px solid blue;
-	border-radius: 5px;
-  border-width: medium;
-  border-color: black;
-  padding: 30px;
-
-}
-a:hover
-{
-	color: white;
-}
-button
-{
+	background-size: 1290px 650px;
 	
-	border:2px solid blue;
-	border-radius: 5px;
-  border-width: medium;
-  border-color: black;
-  padding: 10px;
-}
-button:hover
-{
-	background-color: black;
-
 }
 h1
 {
-	text-align: center;
-	font-size: 60px;
+	font-family: 'Lobster', cursive;
+  font-size: 100px;
+  color: black;
+  text-align: center;
 }
-h1,.y1,.y2,.y3,.y4
+button
 {
-	border:3px solid black;
-	border-collapse: collapse;
-	padding: 10px;
-	border-radius: 5px;
-	text-align: center;
-	background-opacity: 0.2;
+	font-family: 'Lobster', cursive;
+	font-size: 35px;
 }
-p
+img
 {
-	font-size: 20px;
+	margin-left: 40px
+
 }
